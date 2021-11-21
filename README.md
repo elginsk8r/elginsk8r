@@ -1,17 +1,14 @@
 # Hi there 👋
-[![JarlPenguin github stats](https://github-readme-stats.vercel.app/api?username=JarlPenguin&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/JarlPenguin)
+[![elginsk8r github stats](https://github-readme-stats.vercel.app/api?username=elginsk8r&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/elginsk8r)
 
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JarlPenguin&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/JarlPenguin)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elginsk8r&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/elginsk8r)
 
-[![Now playing/Recently played on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=atvwfdytf0ocxy2prgtpokxkh&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=atvwfdytf0ocxy2prgtpokxkh&redirect=true)
+[![Now playing/Recently played on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=2244v76xbg3ngtcv7abttdu6q&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=2244v76xbg3ngtcv7abttdu6q&redirect=true)
 
 ## What do I do
-- 🔨 I’m currently working on [@LineageOS](https://github.com/LineageOS) and [@PixelExperience](https://github.com/PixelExperience)
+- 🔨 I’m currently working on [@Evervolv](https://github.com/Evervolv)
 
 ## How to contact me
-- <img src="https://pbs.twimg.com/profile_images/1229405547050524683/mLrLsHAB_400x400.png" alt="4PDA" width="16"/> 4PDA - [JarlPenguin](https://4pda.ru/forum/index.php?showuser=8632649)
-- <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="Discord" width="16"/> Discord - [Jarl-Penguin#1366](https://discord.gg/VVuZHqT)
-- <img src="https://www.vectorlogo.zone/logos/reddit/reddit-icon.svg" alt="Reddit" width="16"/> Reddit - [u/Jarl_Penguin](https://reddit.com/u/Jarl_Penguin)
-- <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Telegram" width="16"/> Telegram - [@JarlPenguin](https://t.me/JarlPenguin)
-- <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Twitter" width="16"/> Twitter - [@JarlPenguin](https://twitter.com/JarlPenguin)
-- <img src="https://pbs.twimg.com/profile_images/1314334153521991680/DzcrNtVH_400x400.jpg" alt="XDA-Developers" width="16"/> XDA-Developers - [JarlPenguin](https://forum.xda-developers.com/m/jarlpenguin.9506129)
+- <img src="https://www.vectorlogo.zone/logos/reddit/reddit-icon.svg" alt="Reddit" width="16"/> Reddit - [u/elginsk8r](https://reddit.com/u/elginsk8r)
+- <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Telegram" width="16"/> Telegram - [@elginsk8r](https://t.me/elginsk8r)
+- <img src="https://pbs.twimg.com/profile_images/1314334153521991680/DzcrNtVH_400x400.jpg" alt="XDA-Developers" width="16"/> XDA-Developers - [elginsk8r](https://forum.xda-developers.com/m/elginsk8r.3450227)
