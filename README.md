@@ -6,7 +6,7 @@
 [![Now playing/Recently played on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=2244v76xbg3ngtcv7abttdu6q&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 ## What do I do
-- 🔨 I’m currently working on [@Evervolv](https://github.com/Evervolv)
+- HVAC by day, [@Evervolv](https://github.com/Evervolv) by night
 
 ## How to contact me
 <img src="https://www.vectorlogo.zone/logos/reddit/reddit-icon.svg" alt="Reddit" width="32"/> Reddit - [u/elginsk8r](https://reddit.com/u/elginsk8r)<br>
