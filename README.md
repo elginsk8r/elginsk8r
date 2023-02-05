@@ -7,8 +7,3 @@
 
 ## What do I do
 - HVAC by day, [@Evervolv](https://github.com/Evervolv) by night
-
-## How to contact me
-<img src="https://www.vectorlogo.zone/logos/reddit/reddit-icon.svg" alt="Reddit" width="32"/> Reddit - [u/elginsk8r](https://reddit.com/u/elginsk8r)<br>
-<img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Telegram" width="32"/> Telegram - [@elginsk8r](https://t.me/elginsk8r)<br>
-<img src="https://www.svgrepo.com/show/331651/xda-developers.svg" alt="XDA-Developers" width="32"/> XDA-Developers - [elginsk8r](https://forum.xda-developers.com/m/elginsk8r.3450227)
